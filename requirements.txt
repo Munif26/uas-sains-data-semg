@@ -5,6 +5,6 @@ scikit-learn
 joblib
 librosa
 tsfel
-audiorecorder
 matplotlib
 seaborn
+streamlit-audiorecorder
